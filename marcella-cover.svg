@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="350" viewBox="0 0 960 350" role="img" aria-labelledby="title">
+  <title id="title">Марчелла — сайты и боты</title>
+  <rect width="960" height="350" fill="#9e2b40"/>
+  <g fill="#f4f1e9" font-family="Arial, sans-serif">
+    <text x="76" y="75" font-size="20" letter-spacing="2">MARCELLA.SOLUTIONS</text>
+    <text x="69" y="179" font-size="85">САЙТЫ</text>
+    <text x="72" y="266" font-size="85">И БОТЫ</text>
+    <rect x="727" y="100" width="21" height="66" rx="10"/>
+    <rect x="781" y="100" width="21" height="66" rx="10"/>
+  </g>
+  <path d="M680 190v78h166v-78" fill="none" stroke="#ef9ca7" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
